@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class CardSupervisorComponent {
 	title = 'Supervisor';
-	desc = 'Monitors activity to identify project roadblocks';
-	imageSrc = '/assets/images/icons/supervisor.svg';
+	description = 'Monitors activity to identify project roadblocks';
+	imageUrl = '/assets/images/icons/supervisor.svg';
 }

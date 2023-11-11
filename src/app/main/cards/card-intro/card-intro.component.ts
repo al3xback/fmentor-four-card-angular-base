@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class CardIntroComponent {
 	title = 'Reliable, efficient delivery';
 	subtitle = 'Powered by Technology';
-	desc =
+	description =
 		'Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is successful';
 }

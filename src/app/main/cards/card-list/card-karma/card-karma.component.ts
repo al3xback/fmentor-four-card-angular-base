@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class CardKarmaComponent {
 	title = 'Karma';
-	desc = 'Regularly evaluates our talent to ensure quality';
-	imageSrc = '/assets/images/icons/karma.svg';
+	description = 'Regularly evaluates our talent to ensure quality';
+	imageUrl = '/assets/images/icons/karma.svg';
 }

@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class CardCalculatorComponent {
 	title = 'Calculator';
-	desc = 'Uses data from past projects to provide better delivery estimates';
-	imageSrc = '/assets/images/icons/calculator.svg';
+	description = 'Uses data from past projects to provide better delivery estimates';
+	imageUrl = '/assets/images/icons/calculator.svg';
 }

@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class CardTeamBuilderComponent {
 	title = 'Team Builder';
-	desc =
+	description =
 		'Scans our talent network to create the optimal team for your project';
-	imageSrc = '/assets/images/icons/team-builder.svg';
+	imageUrl = '/assets/images/icons/team-builder.svg';
 }
